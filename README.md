@@ -1,4 +1,4 @@
-# tron-local
+# tron-local138a22c03039e688daa2b7c785d1e8d6b9375d4413e6ea82471b1e7a61701a9d
 
 ## Run node
 1. `mkdir bin`
